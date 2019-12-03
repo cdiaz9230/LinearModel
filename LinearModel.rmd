@@ -1,7 +1,7 @@
 ---
 title: "Linear Model"
-author: "Erika Amado"
-date: "23 Oct 2019"
+author: "Briggette Adams"
+date: "2 Dec 2019"
 output: html_document
 ---
 
